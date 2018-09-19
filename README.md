@@ -17,7 +17,8 @@ The project is not about the decision whether a mushroom is edible or not. Inste
 * /souce        - include source code written in python
 * data.rar      - collected data of mushroom images (sorted)
 * proposal      - proposal for the udacity ml project
-* report        - report for the udacity ml project
+* report        - second report for the udacity ml project
+* report        - first report from the first submission for the udacity ml project
 
 ## Autor Information
 
