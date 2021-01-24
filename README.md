@@ -1,4 +1,4 @@
-# Machine-Learning-Capstone
+# Mushroom detection and classification
 
 The main task of this project is to create an application which classifies user inputted pictures of wild mushrooms according to their species, using a machine learning classifier based on a convolutional neural network. In result the application calculates the probability for each species of mushrooms, the image may belongs to.
 
